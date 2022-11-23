@@ -1,0 +1,162 @@
+.Store{
+    color: blue;
+}
+
+.access{
+    background-color: #F6F7F8;
+    text-align:start;
+    width:280px;
+    height:280px;
+    margin-top: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.access1{
+    background-color: #F6F7F8;
+    text-align:start;
+    width:280px;
+    height:150px;
+    margin-top: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.access li:hover{
+    cursor:pointer;
+    color:blue;
+   
+}
+h4{
+    text-align:justify;
+    padding-left: 24px;
+    padding-top: 20px;
+}
+
+li{
+    padding-left:-50px;
+}
+
+.dots{
+    margin-left: 20px;
+}
+
+.dot1{
+    color: blue;
+}
+
+.dot2{
+    color:yellow;
+    border-color:black;
+    border-width: 5px;
+}
+.dot3{
+    color: green;
+    border-color:black;
+    border-width: 5px;
+}
+.dot4{
+    color:pink;
+    border-color:black;
+    border-width: 5px;
+}
+.dot5{
+    color:blueviolet;
+    border-color:black;
+    border-width: 5px;
+}
+.dot6{
+    color: aqua;
+    border-color:black;
+    border-width: 5px;
+}
+
+.access2{
+    background-color: #F6F7F8;
+    text-align:start;
+    width:280px;
+    height:200px;
+    margin-top: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.access2 li:hover{
+    cursor:pointer;
+    color:blue;
+   
+}
+
+.access3{
+    background-color: #F6F7F8;
+    text-align:start;
+    width:280px;
+    height:70px;
+    margin-top: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.Banner{
+    margin-top: -1020px;
+    margin-left: 400px;
+    background-color:#2E90E5;
+    height:500px;
+    width: 70%;
+}
+
+.Written{
+    font-family: sans-serif;
+    font-size:70px;
+    color: white;
+    padding-top: 150px;
+    font-weight: lighter;
+    padding-left: 100px;
+    text-align: left;
+}
+
+.Performance{
+    font-family: sans-serif;
+    font-size:40px;
+    color: white;
+    font-weight: lighter;
+    padding-top: 10px;
+    padding-left: 100px;
+    text-align: left;
+}
+
+.Loa{
+    color: antiquewhite;
+    text-decoration:underline white;
+    text-underline-offset: 10px;
+    text-align: left;
+    padding-left: 100px;
+    transition: all 0.2s ease-out;
+}
+
+.imag{
+    margin-top: -440px;
+    margin-left: 600px;
+    height: 487px;
+    width: 400px;
+}
+
+.access4{
+    background-color: #F6F7F8;
+    text-align:start;
+    width:1025px;
+    height:40px;
+    margin-top: 35px;
+    margin-left: 100px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.More{
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-top: 7px;
+}
+
+.More1{
+    margin-left: 350px;
+}
+
+.More2{
+    margin-right: 30px;
+    color: blue;
+}
